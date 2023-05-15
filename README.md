@@ -1,2 +1,1 @@
-# holbertonschool-binary_trees
-This is our proyect
+This is our proyect about binary trees
