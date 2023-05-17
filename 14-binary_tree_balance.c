@@ -17,7 +17,7 @@ int binary_tree_balance(const binary_tree_t *tree)
 	return (0);
 }
 /**
-  * derecha - function that measures the balance factor
+  * derecha - function counts the nodes on the right
   * @tree: is a pointer to the root node of the tree
   * Return: number of nodes on the right
   */
@@ -32,7 +32,7 @@ int derecha(const binary_tree_t *tree)
 	return (de);
 }
 /**
-  * izquierda - function that measures the balance factor
+  * izquierda - function counts the nodes on the left
   * @tree: is a pointer to the root node of the tree
   * Return: number of nodes on the left
   */
